@@ -54,3 +54,4 @@ if __name__ == '__main__':
 	draw_art()
 	
 	window.exitonclick()
+
