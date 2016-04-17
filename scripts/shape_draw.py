@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # AUTHOR: Savithru M Lokanath
-# PROJECT: HW_2
+# PROJECT: HW_2 (Make an art)
 
 import turtle
 
