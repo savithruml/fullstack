@@ -45,3 +45,4 @@ if __name__ == '__main__':
 	draw_initial_L()
 	
 	window.exitonclick()
+
